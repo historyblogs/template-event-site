@@ -1,30 +1,30 @@
 ---
+title: Eventlisting 2 Lists
 location: events
 head:
   title: Join Us for an Event
-  subtitle:
+  subtitle: 
 style:
-  id: 'events'
+  id: events
   class: ''
   media:
     img:
-      url_path:
+      url_path: 
       pattern: false
       parallax: false
       overlay: dark
       blur: false
     video:
-      url_path:
-      type:
-  tint_color: null
-  font_color:
-
+      url_path: 
+      type: 
+  tint_color: 
+  font_color: 
 cta:
-  headline: 'Interested in Speaking at an Event?'
+  headline: Interested in Speaking at an Event?
   btnText: Apply to Speak
   btnType: btn-default
-  btnLink: /speak/
-  subtext: null
+  btnLink: "/speak/"
+  subtext: 
 ---
 
 <h4>Events:</h4>

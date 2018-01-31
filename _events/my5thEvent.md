@@ -1,76 +1,65 @@
 ---
-layout: "event"
-title: "Dropping Like Flies"
+title: Dropping Like Flies
+layout: event
 subtitle: Fight Fire With Fire
-excerpt: "Give a Man a Fish"
-logo_path: /img/bowtie-site-template-badge-w.png
+excerpt: Give a Man a Fish
+logo_path: "/img/bowtie-site-template-badge-w.png"
 date_on: '2018-02-07'
 start_at: '2018-02-07 14:15:00'
 end_at: '2018-02-07 16:15:00'
 past: false
-
-price: '$5 Dollars'
+price: "$5 Dollars"
 style:
-  class: 'jumbotron bgclear'
+  class: jumbotron bgclear
   media:
     img:
-      url_path: /img/backgrounds/event-writing.jpg
+      url_path: "/img/backgrounds/event-writing.jpg"
       pattern: false
       parallax: true
       overlay: dark
       blur: false
     video:
-      url_path:
-      type:
-  tint_color: null
-  font_color: '#fff'
+      url_path: 
+      type: 
+  tint_color: 
+  font_color: "#fff"
   stickyfooter: true
-
 element:
   countdown:
-    date: 2018-02-07
-    complete: 'Time is Here!'
-
+    date: 2018-02-07 00:00:00 Z
+    complete: Time is Here!
 logos:
-  title: "Past Participants"
+  title: Past Participants
   include:
   - Buttr
   - pbj.ly
-
 speakers:
-    title: "Speakers"
-    include:
-    - jackdorsey
-    - ursulaburns
-    - elonmusk
-
-
+  title: Speakers
+  include:
+  - jackdorsey
+  - ursulaburns
+  - elonmusk
 sponsors:
-  title: "Sponsors"
+  title: Sponsors
   include:
   - Forbes
   - Life Hacker
-
 cta:
   headline: ''
   btnText: Attend Event
-  btnType: 'btn-default'
-  btnLink: '#features'
-  subtext: null
-
+  btnType: btn-default
+  btnLink: "#features"
+  subtext: 
 location:
-  company:  Grand Central Market
-  address:  308 South Hill Street
-  city:     Los Angeles
-  state:    CA
-  zip:      90013
-  country:  USA
-  phone:    213 915-8687
-  latlng:   34.050655,-118.2487951
-
-
+  company: Grand Central Market
+  address: 308 South Hill Street
+  city: Los Angeles
+  state: CA
+  zip: 90013
+  country: USA
+  phone: 213 915-8687
+  latlng: 34.050655,-118.2487951
 ---
-
 
 # Camenae arcum relictae siqua laeta tamen premuntur
 

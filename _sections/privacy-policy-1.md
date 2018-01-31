@@ -1,19 +1,19 @@
 ---
-location: 'privacy-policy'
+title: Privacy Policy 1
+location: privacy-policy
 head:
-  title: 'Privacy Policy'
-  subtitle:
+  title: Privacy Policy
+  subtitle: 
 style:
-  id: 'privacy-policy'
-  class:
-  background_color:  
+  id: privacy-policy
+  class: 
+  background_color: 
 cta:
-  headline:
-  btnText:
-  btnType:
-  btnLink:
-  subtext:
-
+  headline: 
+  btnText: 
+  btnType: 
+  btnLink: 
+  subtext: 
 ---
 
 Your privacy is important to us. We handle information provided by you,

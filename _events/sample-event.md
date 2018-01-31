@@ -1,80 +1,68 @@
 ---
-layout: "event"
-title: "Woodworking Workshop"
-subtitle: 'Starting July 15th'
-excerpt: "Learn the skills of woodworking"
-logo_path:
+title: Woodworking Workshop
+layout: event
+subtitle: Starting July 15th
+excerpt: Learn the skills of woodworking
+logo_path: 
 date_on: '2016-07-15'
 start_at: '2016-07-15 14:15:00'
 end_at: '2016-07-15 16:15:00'
 past: false
-
-price: '$5 Dollars'
+price: "$5 Dollars"
 style:
-  class: 'jumbotron bgclear'
+  class: jumbotron bgclear
   media:
     img:
-      url_path: /img/backgrounds/event-woodworking.jpg
+      url_path: "/img/backgrounds/event-woodworking.jpg"
       pattern: false
       parallax: false
       overlay: dark
       blur: false
     video:
-      url_path:
-      type:
-  tint_color: null
-  font_color: '#fff'
+      url_path: 
+      type: 
+  tint_color: 
+  font_color: "#fff"
   stickyfooter: true
-
 element:
   countdown:
-    date:
-    complete:
-
+    date: 
+    complete: 
 logos:
-  title: "Past Participants"
+  title: Past Participants
   include:
   - Breadr
   - pbj.ly
-
 speakers:
-  title: "Presenting"
+  title: Presenting
   include:
   - jackdorsey
   - ursulaburns
   - elonmusk
-
-
 sponsors:
-  title: "Made Possible By"
+  title: Made Possible By
   include:
   - Forbes
   - Life Hacker
-
 cta:
   headline: ''
-  btnText: 'Register'
-  btnType: 'btn-info'
-  btnLink: 'https://www.eventbrite.com/e/nm-desert-fest-2016-tickets-24854793356?aff=ehomecard'
-  subtext: null
-
+  btnText: Register
+  btnType: btn-info
+  btnLink: https://www.eventbrite.com/e/nm-desert-fest-2016-tickets-24854793356?aff=ehomecard
+  subtext: 
 stripe:
-  productID: 'product_5c40927af9'
-  btnType: 'btn-default'
-  btnText: 'Buy Tickets Now'
-
-
+  productID: product_5c40927af9
+  btnType: btn-default
+  btnText: Buy Tickets Now
 location:
-  company:  Four Corners
-  address:  597 NM-597
-  city:     Teec Nos Pos
-  state:    NM
-  zip:      86514
-  country:  USA
-  phone:    555-123-4567
-  latlng:   36.9989797,-109.045184
-
-
+  company: Four Corners
+  address: 597 NM-597
+  city: Teec Nos Pos
+  state: NM
+  zip: 86514
+  country: USA
+  phone: 555-123-4567
+  latlng: 36.9989797,-109.045184
 ---
 
 ## Event Details

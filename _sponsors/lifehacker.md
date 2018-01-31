@@ -1,5 +1,6 @@
 ---
-url: '#'
-img_path: '/img/press/lifehacker_logo.png'
-title: 'Life Hacker'
+title: Life Hacker
+url: "#"
+img_path: "/img/press/lifehacker_logo.png"
 ---
+

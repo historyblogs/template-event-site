@@ -1,19 +1,19 @@
 ---
-location: 'about'
+title: About 1
+location: about
 head:
-  title: 'About This Template'
-  subtitle: 'This is the About Page'
+  title: About This Template
+  subtitle: This is the About Page
 style:
-  id: 'About'
-  class:
-  background_color:  
+  id: About
+  class: 
+  background_color: 
 cta:
-  headline:
-  btnText:
-  btnType:
-  btnLink:
-  subtext:
-
+  headline: 
+  btnText: 
+  btnType: 
+  btnLink: 
+  subtext: 
 ---
 
 Welcome to your [BowTie](https://bowtie.io)  Event Site. This site is a template. Quickly create standalone event pages, post blogs, and register participants using Jekyll. This page is generated from `about.md` in your root directory. 

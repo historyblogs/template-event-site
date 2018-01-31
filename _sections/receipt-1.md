@@ -1,28 +1,26 @@
 ---
-location: 'receiptpage'
+title: Receipt 1
+location: receiptpage
 head:
-  title: 'Thank you for the Support'
-  subtitle:
-
+  title: Thank you for the Support
+  subtitle: 
 style:
-  id: 'receipt'
-  class:
+  id: receipt
+  class: 
   media:
     img:
-      url_path:
+      url_path: 
       pattern: false
       parallax: false
-      overlay:
+      overlay: 
       blur: false
-  tint_color: 'rgba(0,0,0,0.0)'  
-
+  tint_color: rgba(0,0,0,0.0)
 cta:
-  headline:
-  btnText:
-  btnType:
-  btnLink:
-  subtext:
+  headline: 
+  btnText: 
+  btnType: 
+  btnLink: 
+  subtext: 
 ---
-
 
 Thank you for supporting what we are doing.  

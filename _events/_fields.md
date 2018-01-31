@@ -1,91 +1,77 @@
 ---
-layout: "event"
-title: "Title of Event"
-subtitle: 'Subtitle is optional'
-excerpt: "This is the event excerpt"
-logo_path: null
-date_on:
-start_at:
-end_at:
+title: Title of Event
+layout: event
+subtitle: Subtitle is optional
+excerpt: This is the event excerpt
+logo_path: 
+date_on: 
+start_at: 
+end_at: 
 past: false
-
-price: null
+price: 
 location:
-  company:  null
-  address:  null
-  city:     null
-  state:    null
-  zip:      null
-  country:  null
-  phone:  null
-  latlng:  null
-
+  company: 
+  address: 
+  city: 
+  state: 
+  zip: 
+  country: 
+  phone: 
+  latlng: 
 stripe:
   productID: ''
-  btnType: 'btn-success'
-  btnText: 'Purchase With Stripe'
-
+  btnType: btn-success
+  btnText: Purchase With Stripe
 cta:
   headline: ''
-  btnText:
-  btnType: 'btn-default'
+  btnText: 
+  btnType: btn-default
   btnLink: ''
-  subtext: ''  
-
+  subtext: ''
 style:
-  class: 'jumbotron bgclear'
+  class: jumbotron bgclear
   media:
     img:
-      url_path: /img/backgrounds/event-type.jpg
+      url_path: "/img/backgrounds/event-type.jpg"
       pattern: false
       parallax: false
       overlay: dark
       blur: false
-  tint_color: null
-  font_color: '#fff'
+  tint_color: 
+  font_color: "#fff"
   stickyfooter: true
-
 element:
   countdown:
     date_on: 
-    complete: null
-
-
+    complete: 
 speakers:
-  title: null
+  title: 
   include:
-  -
-  -
-
+  - 
+  - 
 sponsors:
-  title: null
+  title: 
   include:
-  -
-  -
-
+  - 
+  - 
 logos:
-  title: null
+  title: 
   include:
-  -
-
+  - 
 organizers:
-  title: null
+  title: 
   include:
-  -
-  -
-
+  - 
+  - 
 seo:
-  title:
-  description:
-  canonical:
+  title: 
+  description: 
+  canonical: 
   noindex: false
-
 social:
-  title:
-  description:
-  img_path:
-
-
+  title: 
+  description: 
+  img_path: 
 ---
 
 ## Event Details

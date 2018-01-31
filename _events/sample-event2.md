@@ -1,94 +1,87 @@
 ---
-layout: "event"
-title: "Title of Event"
-subtitle: 'Subtitle is optional'
-excerpt: "This is the event excerpt"
-logo_path: /img/bowtie-site-template-badge-w.png
+title: Title of Event
+layout: event
+subtitle: Subtitle is optional
+excerpt: This is the event excerpt
+logo_path: "/img/bowtie-site-template-badge-w.png"
 date_on: '2016-09-03'
 start_at: '2016-09-03 14:15:00'
 end_at: '2016-09-03 16:15:00'
 past: false
-
-price: '$5 Dollars'
+price: "$5 Dollars"
 location:
-  company:  Four Corners
-  address:  597 NM-597
-  city:     Teec Nos Pos
-  state:    NM
-  zip:      86514
-  country:  USA
-  phone:    555-123-4567
-  latlng:   36.9989797,-109.045184
+  company: Four Corners
+  address: 597 NM-597
+  city: Teec Nos Pos
+  state: NM
+  zip: 86514
+  country: USA
+  phone: 555-123-4567
+  latlng: 36.9989797,-109.045184
 stripe:
-  productID: 'product_5c40927af9'
-  btnType: 'btn-success'
-  btnText: 'Tickets Available Now'
+  productID: product_5c40927af9
+  btnType: btn-success
+  btnText: Tickets Available Now
 cta:
-  headline: 'Join Us for the Event'
+  headline: Join Us for the Event
   btnText: Attend Event
-  btnType: 'btn-default'
-  btnLink: 'http://eventbrite.com'
-  subtext: 'CTA Subtext'  
-
+  btnType: btn-default
+  btnLink: http://eventbrite.com
+  subtext: CTA Subtext
 style:
-  class: 'jumbotron bgclear'
+  class: jumbotron bgclear
   media:
     img:
-      url_path: /img/backgrounds/event-type.jpg
+      url_path: "/img/backgrounds/event-type.jpg"
       pattern: false
       parallax: false
       overlay: dark
       blur: false
     video:
-      url_path:
-      type:
-  tint_color: null
-  font_color: '#fff'
+      url_path: 
+      type: 
+  tint_color: 
+  font_color: "#fff"
   stickyfooter: true
-
 element:
   countdown:
-    date_on: 2016-09-03
-    complete: 'Time is Here!'
-
+    date_on: 2016-09-03 00:00:00 Z
+    complete: Time is Here!
 logos:
-  title: "Past Participants"
+  title: Past Participants
   include:
   - Breadr
   - Buttr
   - pbj.ly
-
 speakers:
-  title: "Featured Speakers"
+  title: Featured Speakers
   include:
   - jackdorsey
   - ursulaburns
   - elonmusk
-
-
 sponsors:
-  title: "Sponsored By"
+  title: Sponsored By
   include:
   - Forbes
   - Life Hacker
-
 organizers:
-  title: "Co-organizers"
+  title: Co-organizers
   include:
   - johndoe
   - johnwayne
-
 seo:
-  title: "title Tag to be displayed in search engines."
-  description: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  canonical:
+  title: title Tag to be displayed in search engines.
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+    ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+    montes, nascetur ridiculus mus.
+  canonical: 
   noindex: false
-
 social:
-  title:
-  description: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-  img_path:
-
+  title: 
+  description: Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo
+    ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
+    montes, nascetur ridiculus mus.
+  img_path: 
 ---
 
 ## Event Details

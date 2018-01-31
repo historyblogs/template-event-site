@@ -1,26 +1,26 @@
 ---
+title: Homepage 9 Footer
 location: homepage
 head:
-  title: null
-  subtitle: null
+  title: 
+  subtitle: 
 style:
   id: contact
-  class: 'dark'
+  class: dark
   media:
     img:
-      url_path: null
-      pattern:
-      parallax:
-      overlay:
+      url_path: 
+      pattern: 
+      parallax: 
+      overlay: 
       blur: false
-  tint_color: 'rgba(163,166,152,0.6)'
+  tint_color: rgba(163,166,152,0.6)
 cta:
-  headline: null
-  btnText: null
-  btnType: null
-  btnLink: null
-  subtext: null
-
+  headline: 
+  btnText: 
+  btnType: 
+  btnLink: 
+  subtext: 
 ---
 
 <div class="col-sm-5">

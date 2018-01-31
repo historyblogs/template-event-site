@@ -1,5 +1,6 @@
 ---
-url: '#'
-img_path: '/img/pbjly-logo.png'
-title: 'pbj.ly'
+title: pbj.ly
+url: "#"
+img_path: "/img/pbjly-logo.png"
 ---
+

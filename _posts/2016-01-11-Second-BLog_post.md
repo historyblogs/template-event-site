@@ -1,22 +1,22 @@
 ---
+title: My Second Post
+date: 2016-01-11 15:36:37 Z
+categories:
+- Hello World
+- remember
 layout: post
-title: "My Second Post"
 subtitle: Quick and Dirty
 author: john
-date: "2016-01-11 15:36:37"
 masthead:
   img_path: false
-  pat_path: /img/backgrounds/bg2.jpg
-categories:
-  - Hello World
-  - remember
+  pat_path: "/img/backgrounds/bg2.jpg"
 elsewhere:
-  name: null
-  url: null
+  name: 
+  url: 
 comments: true
 share: true
-
 ---
+
 Lorem markdownum pater volumina tempora momorderat mille barba minor, in Troes,
 **et virgo pinus**. Labi quo bisulco fertur cornicis domum. At hoc vocatus magna
 nutricis in altismunera proscindere aliquid, a oritur. Artisque sine nec

@@ -1,7 +1,7 @@
 ---
-layout: "page"
-title: "Privacy Policy"
-permalink: "privacy-policy.html"
+title: Privacy Policy
+permalink: privacy-policy.html
+layout: page
 exclude_from_nav: true
 ---
 

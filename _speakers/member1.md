@@ -1,12 +1,14 @@
 ---
-nameID: 'jackdorsey'
-name: "Jack Dorsey"
-avatar_path: '/img/jack.jpg'
-company: 'Twitter/Square'
-jobTitle: 'CEO'
-bio: 'He used to have a beard.'
+title: Member1
+nameID: jackdorsey
+name: Jack Dorsey
+avatar_path: "/img/jack.jpg"
+company: Twitter/Square
+jobTitle: CEO
+bio: He used to have a beard.
 email: 
-twitter: 'twitter'
-github:
-linkedin:
+twitter: twitter
+github: 
+linkedin: 
 ---
+

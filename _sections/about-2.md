@@ -1,25 +1,26 @@
 ---
-location: 'about'
+title: About 2
+location: about
 head:
   title: Contact Us
-  subtitle:
+  subtitle: 
 style:
-  id: 'about'
-  class: 'dark'
+  id: about
+  class: dark
   media:
     img:
-      url_path:
+      url_path: 
       pattern: false
       parallax: false
-      overlay:
+      overlay: 
       blur: false
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: rgba(0,0,0,0.0)
 cta:
-  headline:
-  btnText:
-  btnType:
-  btnLink:
-  subtext:
+  headline: 
+  btnText: 
+  btnType: 
+  btnLink: 
+  subtext: 
 ---
 
 ​

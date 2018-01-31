@@ -1,32 +1,31 @@
 ---
+title: Apply 1
 location: apply
 head:
-  title: null
-  subtitle: null
+  title: 
+  subtitle: 
 style:
-  id: 'hero'
-  class: 'jumbotron bgclear'
+  id: hero
+  class: jumbotron bgclear
   media:
     img:
-      url_path: /img/backgrounds/bowtie-donation-site.jpg
+      url_path: "/img/backgrounds/bowtie-donation-site.jpg"
       pattern: false
       parallax: false
       overlay: dark
       blur: false
     video:
-      url_path:
-      type:
-  tint_color: null
-  font_color: '#fff'
-
+      url_path: 
+      type: 
+  tint_color: 
+  font_color: "#fff"
 cta:
-  headline: null
-  btnText: null
-  btnType: null
-  btnLink: null
-  subtext: null
+  headline: 
+  btnText: 
+  btnType: 
+  btnLink: 
+  subtext: 
 ---
-
 
 # Speak at an Upcoming Event
 

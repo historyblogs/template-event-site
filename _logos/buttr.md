@@ -1,5 +1,6 @@
 ---
-url: '#'
-img_path: '/img/Buttr-logo.png'
-title: 'Buttr'
+title: Buttr
+url: "#"
+img_path: "/img/Buttr-logo.png"
 ---
+

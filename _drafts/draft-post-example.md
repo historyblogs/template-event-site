@@ -1,18 +1,18 @@
 ---
-layout: "post"
-title:  "This is a Draft Post"
-subtitle:
-author: "john"
-date: "2015-02-06 15:36:37"
+title: This is a Draft Post
+date: 2015-02-06 15:36:37 Z
+categories:
+- Hello World
+- Draft
+layout: post
+subtitle: 
+author: john
 masthead:
   img_path: false
   pat_path: "/img/backgrounds/bg2.jpg"
-categories:
-  - "Hello World"
-  - "Draft"
 elsewhere:
-  name: ""
-  url: ""
+  name: ''
+  url: ''
 comments: true
 share: true
 ---

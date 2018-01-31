@@ -1,4 +1,5 @@
 ---
+title: Homepage 3 Speakers
 location: homepage
 head:
   title: Speakers
@@ -8,19 +9,18 @@ style:
   class: dark
   media:
     img:
-      url_path: null
+      url_path: 
       pattern: false
       parallax: false
-      overlay: null
+      overlay: 
       blur: false
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: rgba(0,0,0,0.0)
 cta:
-  headline: null
+  headline: 
   btnText: Apply to be a speaker
   btnType: btn-default
-  btnLink: /speak/
-  subtext: null
-
+  btnLink: "/speak/"
+  subtext: 
 ---
 
 {% include widgets/speakers.html %}

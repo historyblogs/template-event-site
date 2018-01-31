@@ -1,10 +1,9 @@
 ---
-location: 'eventpage'
+title: Event 1 Howitworks
+location: eventpage
 style:
-  id: 'howitworks'
-  class: 'dark'
-
-
+  id: howitworks
+  class: dark
 ---
 
 <h2> How the heck does this hackathon work?</h2>

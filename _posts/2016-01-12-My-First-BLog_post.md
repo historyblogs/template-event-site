@@ -1,22 +1,20 @@
 ---
+title: My First Post On My BowTie Blog
+date: 2016-01-12 15:36:37 Z
+categories:
+- remember
 layout: post
-title: "My First Post On My BowTie Blog"
 subtitle: I Smell a Rat
 author: john
-date: "2016-01-12 15:36:37"
 masthead:
   img_path: false
-  pat_path: /img/backgrounds/bg2.jpg
-categories:
-  - remember
+  pat_path: "/img/backgrounds/bg2.jpg"
 elsewhere:
-  name: null
-  url: null
+  name: 
+  url: 
 comments: true
 share: true
-
 ---
-
 
 **Lorem** markdownum orbis virginitate popularis angi spissa defluit, captivo,
 caelo membra auctore. Undis **ab** iram agitat manus captato procul.

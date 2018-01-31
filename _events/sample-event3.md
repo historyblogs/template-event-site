@@ -1,74 +1,65 @@
 ---
-layout: "event"
-title: "Event That Has Passed"
-subtitle: 'Page Subtitle'
-excerpt: "Lets get together on this totally random day"
-logo_path:
+title: Event That Has Passed
+layout: event
+subtitle: Page Subtitle
+excerpt: Lets get together on this totally random day
+logo_path: 
 date_on: '2016-04-03'
 start_at: '2016-04-03 14:15:00'
 end_at: '2016-04-03 16:15:00'
 past: true
-
-price: 'FREE'
+price: FREE
 style:
-  class: 'jumbotron bgclear'
+  class: jumbotron bgclear
   media:
     img:
-      url_path: /img/backgrounds/bowtie-donation-site.jpg
+      url_path: "/img/backgrounds/bowtie-donation-site.jpg"
       pattern: false
       parallax: false
       overlay: dark
       blur: false
     video:
-      url_path:
-      type:
-  tint_color: null
-  font_color: '#fff'
+      url_path: 
+      type: 
+  tint_color: 
+  font_color: "#fff"
   stickyfooter: true
-
 element:
   countdown:
-    date: 2016-04-03
-    complete: 'Registration Closed'
-
+    date: 2016-04-03 00:00:00 Z
+    complete: Registration Closed
 logos:
-  title: "Past Participants"
+  title: Past Participants
   include:
   - Breadr
   - Buttr
   - pbj.ly
-
 speakers:
-  title: "Mentors"
+  title: Mentors
   include:
   - jackdorsey
   - ursulaburns
   - elonmusk
-
 sponsors:
-  title: "Sponsored by"
+  title: Sponsored by
   include:
   - Forbes
   - Life Hacker
-
 cta:
   headline: ''
   btnText: Attend Event
-  btnType: 'btn-default'
-  btnLink: '#features'
-  subtext: null
-
+  btnType: btn-default
+  btnLink: "#features"
+  subtext: 
 location:
-  company:  Four Corners
-  address:  597 NM-597
-  city:     Teec Nos Pos
-  state:    NM
-  zip:      86514
-  country:  USA
-  phone:    555-123-4567
-  latlng:   36.9989797,-109.045184
-
-
+  company: Four Corners
+  address: 597 NM-597
+  city: Teec Nos Pos
+  state: NM
+  zip: 86514
+  country: USA
+  phone: 555-123-4567
+  latlng: 36.9989797,-109.045184
 ---
 
 ## Event Details
